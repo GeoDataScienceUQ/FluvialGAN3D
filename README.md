@@ -9,7 +9,7 @@ To train your own version, please download the dataset (this work uses the 7-fac
 
 Then run 'train_3d.py' in the fold that you'd like to try.
 
-After training both 2D and 3D models, use the simulator in 'test_all.py' to start random simulation or feed your latent/noise vectors
+After training both 2D (Fluvial GAN) and 3D models (FluvialGAN_3DR), use the simulator (FluvialGAN3D) in 'test_all.py' to start random simulation or feed your latent/noise vectors. Feel free to change the num and Nav value in the class Simulation() to have different number of layers/thickness and correlation strength between layers/slices.
 
 ## Acknowledgement
 This code borrows heavily from https://github.com/NVlabs/SPADE
