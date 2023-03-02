@@ -2,6 +2,7 @@
 This is a supporting repositories of our manuscript 'A Conditional GAN-based Approach to Build 3D Facies Models Sequentially Upwards' submitted to Computers & Geosciences
 
 The dataset is available at https://github.com/GeoDataScienceUQ/GANRiverI
+
 The Fluvial GAN for 2D simulation is available at https://github.com/GeoDataScienceUQ/Fluvial_GAN
 
 To train your own version, please download the dataset (this work uses the 7-facies version as default) and set up your path.
